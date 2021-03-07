@@ -6,3 +6,16 @@ int main(){
 int linolejs, sum ;
 cout << "Ievadi cik maksā linolejs kvadrātmetrā:" ;
 cin >> linolejs;
+
+int rullis;
+cout << " Ievadi cik plats ir linoleja rullis metros :";
+cin >> rullis;
+
+int garums;
+cout << " Ievadi telpas garumu :" ;
+cin >> garums;
+
+int platums;
+cout << " Ievadi telpas platumu :" ;
+cin >> platums;
+}
