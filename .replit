@@ -1,0 +1,8 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main(){
+int linolejs, sum ;
+cout << "Ievadi cik maksā linolejs kvadrātmetrā:" ;
+cin >> linolejs;
